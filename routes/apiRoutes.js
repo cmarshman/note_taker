@@ -16,7 +16,7 @@ module.exports = function(app) {
         notesData.push(note);
         console.log(notesData);
 
-        // res.json(true);
+    
 
         fs.writeFile("/db/db.json", JSON.stringify(notesData), (results, err) => {
             if (err) console.log(err)
@@ -37,9 +37,5 @@ let reWrite = () => {
         if (err) throw err
     });
 }
-    // app.post("/api/clear", function(req, res) {
-    //     notesData.length = 0;
 
-    //     res.json({ ok: true});
-    // });
 };
