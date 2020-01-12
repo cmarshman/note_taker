@@ -39,7 +39,7 @@ Notes Page +++++++++++++++++++++++++++++++++++++++++++++
 ![Notes_Page](public/assets/images/notes_page.png)
 
 Stored Notes +++++++++++++++++++++++++++++++++++++++++++
-![Stored_Notes]((public/assets/images/stored_in_json.png)
+![Stored_In_Json]((public/assets/images/stored_in_json.png)
 
 Deleted Notes ++++++++++++++++++++++++++++++++++++++++++
 ![Delete_Notes](public/assets/images/delete_notes.png)
